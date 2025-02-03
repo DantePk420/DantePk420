@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EshwarPk
 - 👀 I’m interested in Arificial Intelligence 
 - 🌱 I’m currently doing my research Masters in AI in Cognitive psychology 
-- 💞️ I’m looking to collaborate on projects related to AI building and Humanoids
+- 💞️ I’m looking to collaborate on projects related to AI , Psychology , Neuroscience , memory , emotions and Humanoids
 - 📫 How to reach me out on Slack : Pk420
 
 <!---
